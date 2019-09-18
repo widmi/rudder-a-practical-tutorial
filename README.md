@@ -1,5 +1,5 @@
 # A step-by-step guide to applying RUDDER
-In this [tutorial](widis_lstm_tools/tutorial.ipynb) I will show you how RUDDER can be applied step by step and how a reward redistribution model can be implemented using PyTorch.
+In this [tutorial](tutorial.ipynb) I will show you how RUDDER can be applied step by step and how a reward redistribution model can be implemented using PyTorch.
 
 You may use it as a quick-guide to apply RUDDER in your RL setting and to pre-assess if RUDDER might lead to improvements for your task beforehand.
 This code should be runnable on common CPUs in reasonable time.
